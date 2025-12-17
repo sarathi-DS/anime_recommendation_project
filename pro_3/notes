@@ -1,0 +1,5 @@
+The two main types of recommendation systems that are easiest to start with are:
+
+Popularity-Based Filtering: Recommends the most popular items (e.g., the top 10 highest-rated movies) to every user. It's simple, but not personalized.
+
+Content-Based Filtering: Recommends items that are similar to items a user has liked in the past. This is much more personalized.
